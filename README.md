@@ -3,6 +3,7 @@
 ## Credentials
 - LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
+- Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
 
 ## Network utility
 netcat: https://eternallybored.org/misc/netcat/
@@ -21,7 +22,7 @@ netcat: https://eternallybored.org/misc/netcat/
  - SharpHound
  
  ## C2
- - Sliver:Sliver is a Command and Control (C2) system. https://github.com/BishopFox/sliver
+ - Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
  
  ## Bypasses
  
