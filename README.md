@@ -40,5 +40,13 @@
 
  ## References/Guides
 - HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
+
+ ## Mind Maps/Flow Charts
+ - Orange Cyberdefense Mindmap: Pentest AD. https://github.com/Orange-Cyberdefense/ocd-mindmaps/blob/main/img/pentest_ad_2022_04.svg
+
+## OSEP resources
+
+ 
+
  
 
