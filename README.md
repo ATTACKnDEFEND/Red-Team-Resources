@@ -14,7 +14,7 @@
 ## Windows Privilege Escalation
  
 ## Active Directory
-- CrackMapExec (a.k.a CME) automate assessing the security of large Active Directory networks. https://github.com/Porchetta-Industries/CrackMapExec
+- CrackMapExec (a.k.a CME) automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
 - Rubeus: is a C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
 - Kekeo: toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
  
