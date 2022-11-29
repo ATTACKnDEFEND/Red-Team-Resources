@@ -8,13 +8,9 @@
 ## Network utility
 - netcat: https://eternallybored.org/misc/netcat/
  
-## Linux Privilege Escalation
-- GTFOBins: curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
- 
-## Windows Privilege Escalation
- 
-## Active Directory
-- CrackMapExec (a.k.a CME) automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
+
+ ## Active Directory
+- CrackMapExec (CME) automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
 - Rubeus: is a C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
 - Kekeo: toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
  
@@ -25,6 +21,11 @@
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
  
 ## Bypasses
+
+## Linux Privilege Escalation
+- GTFOBins: curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
+ 
+## Windows Privilege Escalation
 
 ## LAB
 - Vulnerable-AD:  test most of active directory attacks in local lab https://github.com/WazeHell/vulnerable-AD
