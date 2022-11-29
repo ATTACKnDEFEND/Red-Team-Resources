@@ -21,6 +21,7 @@
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
  
 ## Bypasses
+Bypass-CLM: PowerShell CLM bypass. https://github.com/calebstewart/bypass-clm 
 
 ## Linux Privilege Escalation
 - GTFOBins: curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
