@@ -21,17 +21,20 @@
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
  
 ## Bypasses
-Bypass-CLM: PowerShell CLM bypass. https://github.com/calebstewart/bypass-clm 
+Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm 
 
-## Linux Privilege Escalation
+## Post-Exploitation
+
+### Linux
 - GTFOBins: curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
  
-## Windows Privilege Escalation
+### Windows
+- PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 
 ## LAB
-- Vulnerable-AD:  test most of active directory attacks in local lab https://github.com/WazeHell/vulnerable-AD
+- Vulnerable-AD:  test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
 
- ## References
-- HackTricks https://book.hacktricks.xyz
+ ## References/Guides
+- HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
  
 
