@@ -12,9 +12,12 @@ netcat: https://eternallybored.org/misc/netcat/
  
  ## Windows Privilege Escalation
  
-  ## Active Directory
+ ## Active Directory
  
  ## C2
+ - Sliver - https://github.com/BishopFox/sliver
+ 
+ ## Bypasses
  
  
 
