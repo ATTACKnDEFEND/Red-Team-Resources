@@ -15,12 +15,13 @@
 - Kekeo: toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
 - BloodHound: Identity AD attack paths. https://github.com/BloodHoundAD/BloodHound
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
+- Impacket: Collection of Python classes for working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
  
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
  
 ## Bypasses
-Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm 
+- Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm 
 
 ## Post-Exploitation
 
