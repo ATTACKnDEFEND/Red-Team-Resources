@@ -1,4 +1,4 @@
-# RedTeam Free Resources
+# Red Team Free Resources
 
 ## Credentials
 - LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
@@ -8,7 +8,6 @@
 ## Network utility
 - netcat: https://eternallybored.org/misc/netcat/
  
-
  ## Active Directory
 - CrackMapExec (CME) automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
 - Rubeus: is a C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
@@ -19,7 +18,10 @@
  
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
- 
+
+## Packers
+- ConfuserEx: open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
+
 ## Bypasses
 - Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm 
 
