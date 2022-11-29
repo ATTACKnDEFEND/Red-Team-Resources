@@ -19,8 +19,9 @@
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
 
-## Packers
+## Packers+
 - ConfuserEx: open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
+- AntiScan.Me: Online Virus Scanner without result dsitribution. https://antiscan.me/
 
 ## Bypasses
 - Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm 
