@@ -36,7 +36,7 @@
 ## Post-Exploitation
 
 ### Linux
-- GTFOBins: curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
+- GTFOBins: curated list of Unix binaries to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
  
 ### Windows
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
