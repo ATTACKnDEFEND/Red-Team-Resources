@@ -1,5 +1,8 @@
 # Red Team Free Resources
 
+## Enumeration
+- AutoRecon: network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
+
 ## Credentials
 - LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
