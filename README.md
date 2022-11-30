@@ -23,6 +23,9 @@
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
 
+## Shells
+- Evil-WinRM: ultimate WinRM shell for hacking/pentesting. https://github.com/Hackplayers/evil-winrm 
+
 ## Packers+
 - ConfuserEx: open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
 - AntiScan.Me: Online Virus Scanner without result dsitribution. https://antiscan.me/
