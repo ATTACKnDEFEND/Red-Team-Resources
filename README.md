@@ -5,9 +5,9 @@
 - Nmap: network discovery and security auditing. https://nmap.org/
 
 ## Credentials
-- LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
 - Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
+- LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
 
 ## Network utility
 - netcat: https://eternallybored.org/misc/netcat/
