@@ -2,6 +2,7 @@
 
 ## Enumeration
 - AutoRecon: network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
+- Nmap: network discovery and security auditing. https://nmap.org/
 
 ## Credentials
 - LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
