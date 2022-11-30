@@ -54,6 +54,10 @@
 ## OSEP resources
 - OSEP Code Snippets: Cas van Cooten. https://github.com/chvancooten/OSEP-Code-Snippets
 - OSEP payloads and tools: Octoberfest7. https://github.com/Octoberfest7/OSEP-Tools
+
+# Other useful repositories
+S3cur3Th1sSh1t https://github.com/S3cur3Th1sSh1t
+Rasta Mouse https://github.com/rasta-mouse
  
 
  
