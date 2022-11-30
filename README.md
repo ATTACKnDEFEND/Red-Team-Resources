@@ -44,6 +44,7 @@
 
 ## LAB
 - Vulnerable-AD:  test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
+- BadBlood: outputs a domain to practice privileged identity threat hunting. https://github.com/davidprowe/BadBlood
 
 ## References/Guides
 - HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
