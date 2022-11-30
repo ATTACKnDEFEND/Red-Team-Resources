@@ -41,6 +41,7 @@
 ## References/Guides
 - HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
 - Rubeus. A detailed guide on Rubeus. https://www.hackingarticles.in/a-detailed-guide-on-rubeus/
+- Meterpreter Basics. https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/
 
 ## Mind Maps/Flow Charts
 - Orange Cyberdefense: Pentest AD. https://github.com/Orange-Cyberdefense/ocd-mindmaps/blob/main/img/pentest_ad_2022_04.svg
