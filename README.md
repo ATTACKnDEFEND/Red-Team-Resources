@@ -52,7 +52,8 @@
 - Active Directory attacking: Useful for OSEP by Youssef Saeed. https://xmind.app/m/874LNH/#
 
 ## OSEP resources
-
+- OSEP Code Snippets: Cas van Cooten. https://github.com/chvancooten/OSEP-Code-Snippets
+- OSEP payloads and tools: Octoberfest7. https://github.com/Octoberfest7/OSEP-Tools
  
 
  
