@@ -15,6 +15,7 @@
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
 - Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
 - LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
+- crackstation: Free Password Hash Cracker. https://crackstation.net/
 
 ## Network utility
 - netcat: https://eternallybored.org/misc/netcat/
@@ -56,24 +57,30 @@
 ### Linux
 - GTFOBins: curated list of Unix binaries to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
  
-### Windows
+### Windows/AD
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 - PowerUpSQL: PowerShell toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 - PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
 - Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
+- SpoolSample: PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSampl
+- kerberoast: Kerberoast is a series of tools for attacking MS Kerberos implementations. https://github.com/nidem/kerberoast
+- GetUserSPNs.ps1 Query the domain to find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
 
 ### MSSQL
 - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 - SharpSQLPwn: C# tool to identify and exploit weaknesses with MSSQL instances in Active Directory environments. https://github.com/lefayjey/SharpSQLPwn
 
+## Proxy/Tunnel
+- sshuttle: where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
+- Chisel: Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. https://github.com/jpillora/chisel
+
+## Lateral Movement
+SharpMove: SharpMove - .NET authenticated execution for remote hosts. https://github.com/0xthirteen/SharpMove
+
 ## Home Labs
 - Vulnerable-AD:  test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
 - BadBlood: outputs a domain to practice privileged identity threat hunting. https://github.com/davidprowe/BadBlood
-
-## References/Guides
-- HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
-- Rubeus. A detailed guide on Rubeus. https://www.hackingarticles.in/a-detailed-guide-on-rubeus/
-- Meterpreter Basics. https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/
+- Windows & AD Hacking: create your own vulnerable lab. https://redteamtechniques.github.io/Windows%20%26%20AD%20Hacking/
 
 ## Mind Maps/Flow Charts
 - Orange Cyberdefense: Pentest AD. https://github.com/Orange-Cyberdefense/ocd-mindmaps/blob/main/img/pentest_ad_2022_04.svg
@@ -87,3 +94,14 @@
 - S3cur3Th1sSh1t https://github.com/S3cur3Th1sSh1t
 - Rasta Mouse https://github.com/rasta-mouse
  
+## References/Guides
+- HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
+- Rubeus. A detailed guide on Rubeus. https://www.hackingarticles.in/a-detailed-guide-on-rubeus/
+- Meterpreter Basics. https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/
+- Active Directory Domain Enumeration With Powerview: https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
+- PowerView/SharpView Overview & Usage: https://academy.hackthebox.com/course/preview/active-directory-powerview/powerviewsharpview-overview--usage
+- CertCube Labs: Blog on Advance InfoSec Concepts: https://blog.certcube.com/ad-exploitation-post-exploitation/
+- ired.team notes about all things focusing on, but not limited to, red teaming and offensive security: https://www.ired.team/
+- thehacker.recipes: technical guides on various hacking topics. https://www.thehacker.recipes/
+- Kerberoast: how-to-kerberoast-like-a-boss. https://www.pentestpartners.com/security-blog/how-to-kerberoast-like-a-boss/
+- Lateral moment on Active Directory crackmapexec: https://www.hackingarticles.in/lateral-moment-on-active-directory-crackmapexec/
