@@ -28,11 +28,14 @@
 - Kekeo: toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
 - BloodHound: Identity AD attack paths. https://github.com/BloodHoundAD/BloodHound
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
-- SharpHound.ps1: Runs the BloodHound C# Ingestor using reflection. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
-- Impacket: Collection of Python classes for working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
+- SharpHound.ps1: BloodHound C# Ingestor. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
+- Impacket: Collection of Python classes working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
  
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
+- Metasploit: https://www.metasploit.com/
+- Covenant: https://github.com/cobbr/Covenant/
+- Cobaltstrike: https://www.cobaltstrike.com/
 
 ## Shells
 - Evil-WinRM: ultimate WinRM shell for hacking/pentesting. https://github.com/Hackplayers/evil-winrm 
