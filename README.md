@@ -19,6 +19,7 @@
 
 ## Network utility
 - netcat: https://eternallybored.org/misc/netcat/
+- Impacket: Collection of Python classes working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
  
 ## Privilege Escalation
 
@@ -29,8 +30,7 @@
 - BloodHound: Identity AD attack paths. https://github.com/BloodHoundAD/BloodHound
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
 - SharpHound.ps1: BloodHound C# Ingestor. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
-- Impacket: Collection of Python classes working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
- 
+
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
 - Metasploit: https://www.metasploit.com/
