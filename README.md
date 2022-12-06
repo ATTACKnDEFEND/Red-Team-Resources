@@ -3,6 +3,7 @@
 ## Enumeration
 - AutoRecon: network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
 - Nmap: network discovery and security auditing. https://nmap.org/
+- SauronEye: Assembly search tool built to find files containing specific keywords. https://github.com/vivami/SauronEye
 
 ## Credentials
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
@@ -42,9 +43,10 @@
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 - PowerUpSQL: PowerShell toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 
-## LAB
+## Home Labs
 - Vulnerable-AD:  test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
 - BadBlood: outputs a domain to practice privileged identity threat hunting. https://github.com/davidprowe/BadBlood
+
 
 ## References/Guides
 - HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
