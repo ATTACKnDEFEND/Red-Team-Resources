@@ -13,7 +13,7 @@
 
 ## Credentials
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
-- Pypykatz: Mimikatz implementation in pure Python. https://github.com/skelsec/pypykatz
+- Pypykatz: mimikatz implementation in pure Python. https://github.com/skelsec/pypykatz
 - Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
 - LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
 - crackstation: Free Password Hash Cracker. https://crackstation.net/
