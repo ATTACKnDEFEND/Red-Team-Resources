@@ -65,13 +65,13 @@
 - PowerUpSQL: PowerShell toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 - PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
 - Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
-- SpoolSample: PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSampl
+- SpoolSample: coerce Windows hosts authenticate via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSampl
 - kerberoast: Kerberoast is a series of tools for attacking MS Kerberos implementations. https://github.com/nidem/kerberoast
-- GetUserSPNs: uery the domain to find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
+- GetUserSPNs: find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
 
 ### MSSQL
 - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
-- SharpSQLPwn: C# tool to identify and exploit weaknesses with MSSQL instances in Active Directory environments. https://github.com/lefayjey/SharpSQLPwn
+- SharpSQLPwn: C# tool to identify and exploit weaknesses with MSSQL instances in AD env. https://github.com/lefayjey/SharpSQLPwn
 
 ## Proxy/Tunnel
 - sshuttle: where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
