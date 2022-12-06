@@ -4,7 +4,7 @@
 - AutoRecon: network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
 - Nmap: network discovery and security auditing. https://nmap.org/
 - SauronEye: Assembly search tool built to find files containing specific keywords. https://github.com/vivami/SauronEye
-- ADRecon: PowerShell script which extracts and combines various artefacts out of an AD environment. https://github.com/sense-of-security/ADRecon
+- ADRecon: PowerShell script extracts & combines various artefacts out of an AD env. https://github.com/sense-of-security/ADRecon
 - ADModule: Microsoft signed DLL for the ActiveDirectory PowerShell module. https://github.com/samratashok/ADModule
 - Powerview: AD Enumeration with Powerview. https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
 - SharpView: .NET Assemlbly port of PowerView. https://github.com/tevora-threat/SharpView
