@@ -6,6 +6,9 @@
 - SauronEye: Assembly search tool built to find files containing specific keywords. https://github.com/vivami/SauronEye
 - ADRecon: PowerShell script which extracts and combines various artefacts out of an AD environment. https://github.com/sense-of-security/ADRecon
 - ADModule: Microsoft signed DLL for the ActiveDirectory PowerShell module. https://github.com/samratashok/ADModule
+- Powerview: AD Enumeration with Powerview. https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
+- SharpView: .NET Assemlbly port of PowerView. https://github.com/tevora-threat/SharpView
+- ldapdomaindump: Active Directory information dumper via LDAP. https://github.com/dirkjanm/ldapdomaindump
 
 ## Credentials
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
@@ -16,8 +19,7 @@
 - netcat: https://eternallybored.org/misc/netcat/
  
 ## Privilege Escalation
-- dfhjdshfs
- 
+
 ## Active Directory
 - CrackMapExec (CME) automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
 - Rubeus: is a C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
@@ -28,10 +30,11 @@
 - Impacket: Collection of Python classes for working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
  
 ## C2
-- Sliver: Command and Control (C2) system. https://github.com/BishopFox/sliver
+- Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
 
 ## Shells
 - Evil-WinRM: ultimate WinRM shell for hacking/pentesting. https://github.com/Hackplayers/evil-winrm 
+- Villian: Villain is a Windows & Linux backdoor generator.  https://github.com/t3l3machus/Villain
 
 ## Packers+
 - ConfuserEx: open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
@@ -49,6 +52,11 @@
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 - PowerUpSQL: PowerShell toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 - PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
+- Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
+
+### MSSQL
+- PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
+- SharpSQLPwn: C# tool to identify and exploit weaknesses with MSSQL instances in Active Directory environments. https://github.com/lefayjey/SharpSQLPwn
 
 ## Home Labs
 - Vulnerable-AD:  test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
