@@ -10,7 +10,7 @@
 - SharpView: .NET Assemlbly port of PowerView. https://github.com/tevora-threat/SharpView
 - ldapdomaindump: Active Directory information dumper via LDAP. https://github.com/dirkjanm/ldapdomaindump
 - ADfind: Find various types of information from Active Directory. https://www.joeware.net/freetools/tools/adfind/index.htm
-- GetUserSPNs: find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
+- GetUserSPNs: Find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
 
 ## Credentials
 - Mimikatz: Credential-dumping application. https://github.com/ParrotSec/mimikatz
