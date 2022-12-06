@@ -80,7 +80,7 @@
 - Chisel: Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. https://github.com/jpillora/chisel
 
 ## Lateral Movement
-SharpMove: .NET authenticated execution for remote hosts. https://github.com/0xthirteen/SharpMove
+-SharpMove: .NET authenticated execution for remote hosts. https://github.com/0xthirteen/SharpMove
 
 ## Home Labs
 - Vulnerable-AD: Test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
