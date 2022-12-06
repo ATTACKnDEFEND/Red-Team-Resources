@@ -13,6 +13,7 @@
 
 ## Credentials
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
+- Pypykatz: Mimikatz implementation in pure Python. https://github.com/skelsec/pypykatz
 - Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
 - LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
 - crackstation: Free Password Hash Cracker. https://crackstation.net/
@@ -37,9 +38,10 @@
 - Covenant: https://github.com/cobbr/Covenant/
 - Cobaltstrike: https://www.cobaltstrike.com/
 
-## Shells
+## Shells+
 - Evil-WinRM: ultimate WinRM shell for hacking/pentesting. https://github.com/Hackplayers/evil-winrm 
 - Villian: Villain is a Windows & Linux backdoor generator.  https://github.com/t3l3machus/Villain
+- DotNetToJScript: generate JScript bootstraps arbitrary .NET Assembly & class. https://github.com/tyranid/DotNetToJScript
 
 ## Packers+
 - ConfuserEx: open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
