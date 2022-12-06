@@ -6,7 +6,7 @@
 - SauronEye: Assembly search tool built to find files containing specific keywords. https://github.com/vivami/SauronEye
 - ADRecon: PowerShell script extracts & combines various artefacts out of an AD env. https://github.com/sense-of-security/ADRecon
 - ADModule: Microsoft signed DLL for the ActiveDirectory PowerShell module. https://github.com/samratashok/ADModule
-- Powerview: AD Enumeration with Powerview. https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
+- Powerview: AD Enumeration. https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
 - SharpView: .NET Assemlbly port of PowerView. https://github.com/tevora-threat/SharpView
 - ldapdomaindump: Active Directory information dumper via LDAP. https://github.com/dirkjanm/ldapdomaindump
 - ADfind: Find various types of information from Active Directory. https://www.joeware.net/freetools/tools/adfind/index.htm
