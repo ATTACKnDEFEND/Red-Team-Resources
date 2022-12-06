@@ -36,6 +36,7 @@
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
 - Metasploit: https://www.metasploit.com/
 - Covenant: https://github.com/cobbr/Covenant/
+- Covenant randomizer: https://github.com/assume-breach/Home-Grown-Red-Team/tree/main/Covenant%20Randomizer
 - Cobaltstrike: https://www.cobaltstrike.com/
 
 ## Shells+
