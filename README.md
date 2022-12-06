@@ -68,6 +68,7 @@
 - SpoolSample: coerce Windows hosts authenticate via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSampl
 - kerberoast: Kerberoast is a series of tools for attacking MS Kerberos implementations. https://github.com/nidem/kerberoast
 - GetUserSPNs: find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
+- LOLBAS: Living Off The land Binaries, Scripts and Libraries. https://lolbas-project.github.io/
 
 ### MSSQL
 - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
