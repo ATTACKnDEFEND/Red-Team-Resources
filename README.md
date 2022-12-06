@@ -98,8 +98,8 @@ SharpMove: SharpMove - .NET authenticated execution for remote hosts. https://gi
 - HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
 - Rubeus. A detailed guide on Rubeus. https://www.hackingarticles.in/a-detailed-guide-on-rubeus/
 - Meterpreter Basics. https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/
-- Active Directory Domain Enumeration With Powerview: https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
-- PowerView/SharpView Overview & Usage: https://academy.hackthebox.com/course/preview/active-directory-powerview/powerviewsharpview-overview--usage
+- AD Domain Enumeration With Powerview: https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
+- PowerView/SharpView: https://academy.hackthebox.com/course/preview/active-directory-powerview/powerviewsharpview-overview--usage
 - CertCube Labs: Blog on Advance InfoSec Concepts: https://blog.certcube.com/ad-exploitation-post-exploitation/
 - ired.team notes about all things focusing on, but not limited to, red teaming and offensive security: https://www.ired.team/
 - thehacker.recipes: technical guides on various hacking topics. https://www.thehacker.recipes/
