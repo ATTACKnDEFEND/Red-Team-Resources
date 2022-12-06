@@ -31,7 +31,7 @@
 - Kekeo: Toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
 - BloodHound: Identity AD attack paths. https://github.com/BloodHoundAD/BloodHound
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
-- SharpHound.ps1: BloodHound C# Ingestor using reflection. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
+- SharpHound.ps1: BloodHound Ingestor using reflection. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
 
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
