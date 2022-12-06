@@ -7,7 +7,6 @@
 - ADRecon: PowerShell script which extracts and combines various artefacts out of an AD environment. https://github.com/sense-of-security/ADRecon
 - ADModule: Microsoft signed DLL for the ActiveDirectory PowerShell module. https://github.com/samratashok/ADModule
 
-
 ## Credentials
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
 - Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
@@ -16,12 +15,16 @@
 ## Network utility
 - netcat: https://eternallybored.org/misc/netcat/
  
- ## Active Directory
+## Privilege Escalation
+- dfhjdshfs
+ 
+## Active Directory
 - CrackMapExec (CME) automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
 - Rubeus: is a C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
 - Kekeo: toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
 - BloodHound: Identity AD attack paths. https://github.com/BloodHoundAD/BloodHound
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
+- SharpHound.ps1: Runs the BloodHound C# Ingestor using reflection. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
 - Impacket: Collection of Python classes for working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
  
 ## C2
@@ -45,11 +48,11 @@
 ### Windows
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 - PowerUpSQL: PowerShell toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
+- PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
 
 ## Home Labs
 - Vulnerable-AD:  test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
 - BadBlood: outputs a domain to practice privileged identity threat hunting. https://github.com/davidprowe/BadBlood
-
 
 ## References/Guides
 - HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
@@ -68,6 +71,3 @@
 - S3cur3Th1sSh1t https://github.com/S3cur3Th1sSh1t
 - Rasta Mouse https://github.com/rasta-mouse
  
-
- 
-
