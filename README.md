@@ -67,7 +67,7 @@
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 - PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
 - Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
-- SpoolSample: coerce Windows hosts authenticate via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSampl
+- SpoolSample: coerce Windows hosts authenticate via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSample
 - Kerberoast: Kerberoast is a series of tools for attacking MS Kerberos implementations. https://github.com/nidem/kerberoast
 - LOLBAS: Living Off The land Binaries, Scripts and Libraries. https://lolbas-project.github.io/
 
