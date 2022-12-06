@@ -4,6 +4,9 @@
 - AutoRecon: network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
 - Nmap: network discovery and security auditing. https://nmap.org/
 - SauronEye: Assembly search tool built to find files containing specific keywords. https://github.com/vivami/SauronEye
+- ADRecon: PowerShell script which extracts and combines various artefacts out of an AD environment. https://github.com/sense-of-security/ADRecon
+- ADModule: Microsoft signed DLL for the ActiveDirectory PowerShell module. https://github.com/samratashok/ADModule
+
 
 ## Credentials
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
