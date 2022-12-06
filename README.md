@@ -9,6 +9,7 @@
 - Powerview: AD Enumeration with Powerview. https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
 - SharpView: .NET Assemlbly port of PowerView. https://github.com/tevora-threat/SharpView
 - ldapdomaindump: Active Directory information dumper via LDAP. https://github.com/dirkjanm/ldapdomaindump
+- ADfind: Finde various types of information from Active Directory. https://www.joeware.net/freetools/tools/adfind/index.htm
 
 ## Credentials
 - Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
@@ -38,10 +39,17 @@
 
 ## Packers+
 - ConfuserEx: open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
-- AntiScan.Me: Online Virus Scanner without result distribution. https://antiscan.me/
 
-## Bypasses
-- Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm 
+## Bypasses+
+- Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm
+- AntiScan.Me: Online Virus Scanner without result distribution. https://antiscan.me/
+- AMSI PowerShell bypass oneliner - https://github.com/ZemarKhos/AMSI-BYPASS-ONELINER/blob/main/amsi-bypass-onliner.ps1
+- Amsi bypass: PowerShell AMSI bypass. https://notes.vulndev.io/notes/redteam/payloads/windows/amsi
+- Amsitrigger: Hunting for Malicious Strings. https://www.rythmstick.net/posts/amsitrigger/
+- ISESteroids: extends built-in ISE PowerShell editor (inc obfuscation). https://www.powershellgallery.com/packages/ISESteroids/2.7.1.7
+- Invoke-Obfuscation: PowerShell command and script obfuscator. https://github.com/danielbohannon/Invoke-Obfuscation
+- amsi.fail: generates obfuscated PowerShell snippets that break or disable AMSI for the current process. https://amsi.fail/
+- Test antivirus is working without any malware - https://www.blackhillsinfosec.com/is-this-thing-on/
 
 ## Post-Exploitation
 
