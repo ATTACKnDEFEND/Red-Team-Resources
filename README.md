@@ -23,7 +23,7 @@
 ## Privilege Escalation
 
 ## Active Directory
-- CrackMapExec (CME) automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
+- CrackMapExec(CME): automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
 - Rubeus: is a C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
 - Kekeo: toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
 - BloodHound: Identity AD attack paths. https://github.com/BloodHoundAD/BloodHound
@@ -47,13 +47,13 @@
 ## Bypasses+
 - Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm
 - AntiScan.Me: Online Virus Scanner without result distribution. https://antiscan.me/
-- AMSI PowerShell bypass oneliner - https://github.com/ZemarKhos/AMSI-BYPASS-ONELINER/blob/main/amsi-bypass-onliner.ps1
+- AMSI PowerShell bypass oneliner: https://github.com/ZemarKhos/AMSI-BYPASS-ONELINER/blob/main/amsi-bypass-onliner.ps1
 - Amsi bypass: PowerShell AMSI bypass. https://notes.vulndev.io/notes/redteam/payloads/windows/amsi
 - Amsitrigger: Hunting for Malicious Strings. https://www.rythmstick.net/posts/amsitrigger/
 - ISESteroids: extends built-in ISE PowerShell editor (inc obfuscation). https://www.powershellgallery.com/packages/ISESteroids/2.7.1.7
 - Invoke-Obfuscation: PowerShell command and script obfuscator. https://github.com/danielbohannon/Invoke-Obfuscation
 - amsi.fail: generates obfuscated PowerShell snippets that break or disable AMSI for the current process. https://amsi.fail/
-- Test antivirus is working without any malware - https://www.blackhillsinfosec.com/is-this-thing-on/
+- Test antivirus is working without any malware: ttps://www.blackhillsinfosec.com/is-this-thing-on/
 
 ## Post-Exploitation
 
@@ -67,7 +67,7 @@
 - Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
 - SpoolSample: PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSampl
 - kerberoast: Kerberoast is a series of tools for attacking MS Kerberos implementations. https://github.com/nidem/kerberoast
-- GetUserSPNs.ps1 Query the domain to find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
+- GetUserSPNs: uery the domain to find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
 
 ### MSSQL
 - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
@@ -81,7 +81,7 @@
 SharpMove: SharpMove - .NET authenticated execution for remote hosts. https://github.com/0xthirteen/SharpMove
 
 ## Home Labs
-- Vulnerable-AD:  test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
+- Vulnerable-AD: test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
 - BadBlood: outputs a domain to practice privileged identity threat hunting. https://github.com/davidprowe/BadBlood
 - Windows & AD Hacking: create your own vulnerable lab. https://redteamtechniques.github.io/Windows%20%26%20AD%20Hacking/
 
@@ -89,13 +89,11 @@ SharpMove: SharpMove - .NET authenticated execution for remote hosts. https://gi
 - Orange Cyberdefense: Pentest AD. https://github.com/Orange-Cyberdefense/ocd-mindmaps/blob/main/img/pentest_ad_2022_04.svg
 - Active Directory attacking: Useful for OSEP by Youssef Saeed. https://xmind.app/m/874LNH/#
 
-## OSEP resources
-- OSEP Code Snippets: Cas van Cooten. https://github.com/chvancooten/OSEP-Code-Snippets
-- OSEP payloads and tools: Octoberfest7. https://github.com/Octoberfest7/OSEP-Tools
-
 # Other useful repositories
 - S3cur3Th1sSh1t https://github.com/S3cur3Th1sSh1t
 - Rasta Mouse https://github.com/rasta-mouse
+- OSEP Code Snippets: Cas van Cooten. https://github.com/chvancooten/OSEP-Code-Snippets
+- OSEP payloads and tools: Octoberfest7. https://github.com/Octoberfest7/OSEP-Tools
  
 ## References/Guides
 - HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
