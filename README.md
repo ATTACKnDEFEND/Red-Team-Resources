@@ -1,62 +1,62 @@
 # Red Team Free Resources
 
 ## Enumeration
-- AutoRecon: network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
-- Nmap: network discovery and security auditing. https://nmap.org/
+- AutoRecon: Network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
+- Nmap: Network discovery and security auditing. https://nmap.org/
 - SauronEye: Assembly search tool built to find files containing specific keywords. https://github.com/vivami/SauronEye
 - ADRecon: PowerShell script extracts & combines various artefacts out of an AD env. https://github.com/sense-of-security/ADRecon
 - ADModule: Microsoft signed DLL for the ActiveDirectory PowerShell module. https://github.com/samratashok/ADModule
 - Powerview: AD Enumeration with Powerview. https://nored0x.github.io/red-teaming/active-directory-domain-enumeration-part-1/
 - SharpView: .NET Assemlbly port of PowerView. https://github.com/tevora-threat/SharpView
 - ldapdomaindump: Active Directory information dumper via LDAP. https://github.com/dirkjanm/ldapdomaindump
-- ADfind: Finde various types of information from Active Directory. https://www.joeware.net/freetools/tools/adfind/index.htm
+- ADfind: Find various types of information from Active Directory. https://www.joeware.net/freetools/tools/adfind/index.htm
+- GetUserSPNs: find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
 
 ## Credentials
-- Mimikatz: credential-dumping application. https://github.com/ParrotSec/mimikatz
-- Pypykatz: mimikatz implementation in pure Python. https://github.com/skelsec/pypykatz
+- Mimikatz: Credential-dumping application. https://github.com/ParrotSec/mimikatz
+- Pypykatz: Mimikatz implementation in pure Python. https://github.com/skelsec/pypykatz
 - Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
-- LaZagne: retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
+- LaZagne: Retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
 - crackstation: Free Password Hash Cracker. https://crackstation.net/
 
 ## Network utility
-- netcat: https://eternallybored.org/misc/netcat/
+- Netcat: Networking utility for reading from and writing to network connections. https://eternallybored.org/misc/netcat/
 - Impacket: Collection of Python classes working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
  
 ## Privilege Escalation
 
 ## Active Directory
-- CrackMapExec(CME): automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
-- Rubeus: is a C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
-- Kekeo: toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
+- CrackMapExec(CME): Automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
+- Rubeus: C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
+- Kekeo: Toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
 - BloodHound: Identity AD attack paths. https://github.com/BloodHoundAD/BloodHound
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
 - SharpHound.ps1: BloodHound C# Ingestor. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
 
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
-- Metasploit: https://www.metasploit.com/
-- Covenant: https://github.com/cobbr/Covenant/
-- Covenant randomizer: https://github.com/assume-breach/Home-Grown-Red-Team/tree/main/Covenant%20Randomizer
-- Cobaltstrike: https://www.cobaltstrike.com/
+- Metasploit: Command and Control (C2) system. https://www.metasploit.com/
+- Covenant: Command and Control (C2) system. https://github.com/cobbr/Covenant/
+- Covenant randomizer: Obfuscate Covenant. https://github.com/assume-breach/Home-Grown-Red-Team/tree/main/Covenant%20Randomizer
+- Cobaltstrike: Command and Control (C2) system. https://www.cobaltstrike.com/
 
 ## Shells+
-- Evil-WinRM: ultimate WinRM shell for hacking/pentesting. https://github.com/Hackplayers/evil-winrm 
-- Villian: Villain is a Windows & Linux backdoor generator.  https://github.com/t3l3machus/Villain
-- DotNetToJScript: generate JScript bootstraps arbitrary .NET Assembly & class. https://github.com/tyranid/DotNetToJScript
+- Evil-WinRM: Ultimate WinRM shell for hacking/pentesting. https://github.com/Hackplayers/evil-winrm 
+- Villian: A Windows & Linux backdoor generator.  https://github.com/t3l3machus/Villain
+- DotNetToJScript: Generate JScript bootstraps arbitrary .NET Assembly & class. https://github.com/tyranid/DotNetToJScript
 
 ## Packers+
-- ConfuserEx: open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
+- ConfuserEx: Open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
 
 ## Bypasses+
 - Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm
 - AntiScan.Me: Online Virus Scanner without result distribution. https://antiscan.me/
-- AMSI PowerShell bypass oneliner: https://github.com/ZemarKhos/AMSI-BYPASS-ONELINER/blob/main/amsi-bypass-onliner.ps1
+- AMSI PowerShell bypass: Oneliner. https://github.com/ZemarKhos/AMSI-BYPASS-ONELINER/blob/main/amsi-bypass-onliner.ps1
 - Amsi bypass: PowerShell AMSI bypass. https://notes.vulndev.io/notes/redteam/payloads/windows/amsi
 - Amsitrigger: Hunting for Malicious Strings. https://www.rythmstick.net/posts/amsitrigger/
-- ISESteroids: extends built-in ISE PowerShell editor (inc obfuscation). https://www.powershellgallery.com/packages/ISESteroids/2.7.1.7
+- ISESteroids: Extends built-in ISE PowerShell editor (inc obfuscation). https://www.powershellgallery.com/packages/ISESteroids/2.7.1.7
 - Invoke-Obfuscation: PowerShell command and script obfuscator. https://github.com/danielbohannon/Invoke-Obfuscation
-- amsi.fail: generates obfuscated PowerShell snippets that break or disable AMSI for the current process. https://amsi.fail/
-- Test antivirus is working without any malware: ttps://www.blackhillsinfosec.com/is-this-thing-on/
+- amsi.fail: Generates obfuscated PowerShell snippets that break or disable AMSI for the current process. https://amsi.fail/
 
 ## Post-Exploitation
 
@@ -65,12 +65,10 @@
  
 ### Windows/AD
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
-- PowerUpSQL: PowerShell toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 - PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
 - Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
 - SpoolSample: coerce Windows hosts authenticate via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSampl
-- kerberoast: Kerberoast is a series of tools for attacking MS Kerberos implementations. https://github.com/nidem/kerberoast
-- GetUserSPNs: find SPNs that use User accounts https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1
+- Kerberoast: Kerberoast is a series of tools for attacking MS Kerberos implementations. https://github.com/nidem/kerberoast
 - LOLBAS: Living Off The land Binaries, Scripts and Libraries. https://lolbas-project.github.io/
 
 ### MSSQL
@@ -78,16 +76,16 @@
 - SharpSQLPwn: C# tool to identify and exploit weaknesses with MSSQL instances in AD env. https://github.com/lefayjey/SharpSQLPwn
 
 ## Proxy/Tunnel
-- sshuttle: where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
+- Sshuttle: Where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
 - Chisel: Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. https://github.com/jpillora/chisel
 
 ## Lateral Movement
-SharpMove: SharpMove - .NET authenticated execution for remote hosts. https://github.com/0xthirteen/SharpMove
+SharpMove: .NET authenticated execution for remote hosts. https://github.com/0xthirteen/SharpMove
 
 ## Home Labs
-- Vulnerable-AD: test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
-- BadBlood: outputs a domain to practice privileged identity threat hunting. https://github.com/davidprowe/BadBlood
-- Windows & AD Hacking: create your own vulnerable lab. https://redteamtechniques.github.io/Windows%20%26%20AD%20Hacking/
+- Vulnerable-AD: Test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
+- BadBlood: Outputs a domain to practice privileged identity threat hunting. https://github.com/davidprowe/BadBlood
+- Windows & AD Hacking: Create your own vulnerable lab. https://redteamtechniques.github.io/Windows%20%26%20AD%20Hacking/
 
 ## Mind Maps/Flow Charts
 - Orange Cyberdefense: Pentest AD. https://github.com/Orange-Cyberdefense/ocd-mindmaps/blob/main/img/pentest_ad_2022_04.svg
@@ -100,6 +98,7 @@ SharpMove: SharpMove - .NET authenticated execution for remote hosts. https://gi
 - OSEP payloads and tools: Octoberfest7. https://github.com/Octoberfest7/OSEP-Tools
  
 ## References/Guides
+- Test antivirus is working without any malware: https://www.blackhillsinfosec.com/is-this-thing-on/
 - HackTricks: Comprehensive list of PT techniques. https://book.hacktricks.xyz
 - Rubeus. A detailed guide on Rubeus. https://www.hackingarticles.in/a-detailed-guide-on-rubeus/
 - Meterpreter Basics. https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/
