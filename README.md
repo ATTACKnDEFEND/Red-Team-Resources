@@ -61,6 +61,7 @@
 - WinPEAS: Windows Privilege Escalation Awesome Scripts. https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
 - PrivescCheck: Enumerate common Windows configuration issues. https://github.com/itm4n/PrivescCheck
 - adPEAS: Powershell tool to automate Active Directory enumeration. https://github.com/61106960/adPEAS
+- WinPwn: Powershell Recon/Exploit script with automatic proxy support. https://github.com/S3cur3Th1sSh1t/WinPwn
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 - PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
 - Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
