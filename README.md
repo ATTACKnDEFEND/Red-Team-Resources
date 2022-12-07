@@ -67,6 +67,7 @@
 - PowerUp: Clearinghouse of common Windows PE due to misconfiguration. https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerUp/PowerUp.ps1
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 - SeatBelt: C# performs a number of security oriented host-survey safety checks. https://github.com/GhostPack/Seatbelt
+- Windows Exploit Suggester - Next Generation (WES-NG): lists OS vulnerabilities. https://github.com/bitsadmin/wesng
 - LOLBAS: Living Off The land Binaries, Scripts and Libraries. https://lolbas-project.github.io/
 
 ### Active Directory
