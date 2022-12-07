@@ -50,16 +50,17 @@
 - LinPEAS: Linux Privilege Escalation Awesome Script. https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 - GTFOBins: curated list of Unix binaries to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
  
-### Windows/AD
+### Windows
 - WinPEAS: Windows Privilege Escalation Awesome Scripts. https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
 - PrivescCheck: Enumerate common Windows configuration issues. https://github.com/itm4n/PrivescCheck
 - WinPwn: Powershell Recon/Exploit script with automatic proxy support. https://github.com/S3cur3Th1sSh1t/WinPwn
 - HostRecon: PowerShell script host enumeration. https://github.com/dafthack/HostRecon/blob/master/HostRecon.ps1
 - PowerUp: Clearinghouse of common Windows PE due to misconfiguration. https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerUp/PowerUp.ps1
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
+- SeatBelt: C# performs a number of security oriented host-survey safety checks. https://github.com/GhostPack/Seatbelt
 - LOLBAS: Living Off The land Binaries, Scripts and Libraries. https://lolbas-project.github.io/
 
-## Active Directory
+### Active Directory
 - adPEAS: Powershell tool to automate Active Directory enumeration. https://github.com/61106960/adPEAS
 - PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
 - Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
@@ -69,7 +70,7 @@
 - Rubeus: C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
 - Kekeo: Toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
 
-## Credentials
+### Credentials
 - Mimikatz: Credential-dumping application. https://github.com/ParrotSec/mimikatz
 - Pypykatz: Mimikatz implementation in pure Python. https://github.com/skelsec/pypykatz
 - Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
