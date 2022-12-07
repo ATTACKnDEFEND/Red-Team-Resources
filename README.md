@@ -20,7 +20,6 @@
 - Metasploit: Command and Control (C2) system. https://www.metasploit.com/
 - Covenant: Command and Control (C2) system. https://github.com/cobbr/Covenant/
 - Covenant randomizer: Obfuscate Covenant. https://github.com/assume-breach/Home-Grown-Red-Team/tree/main/Covenant%20Randomizer
-- Cobaltstrike: Command and Control (C2) system. https://www.cobaltstrike.com/
 
 ## Proxy/Tunnel
 - Sshuttle: Where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
