@@ -26,6 +26,10 @@
 - Covenant randomizer: Obfuscate Covenant. https://github.com/assume-breach/Home-Grown-Red-Team/tree/main/Covenant%20Randomizer
 - Cobaltstrike: Command and Control (C2) system. https://www.cobaltstrike.com/
 
+## Proxy/Tunnel
+- Sshuttle: Where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
+- Chisel: Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. https://github.com/jpillora/chisel
+
 ## Shells+
 - Evil-WinRM: Ultimate WinRM shell for hacking/pentesting. https://github.com/Hackplayers/evil-winrm 
 - Villian: A Windows & Linux backdoor generator.  https://github.com/t3l3machus/Villain
@@ -43,6 +47,9 @@
 - ISESteroids: Extends built-in ISE PowerShell editor (inc obfuscation). https://www.powershellgallery.com/packages/ISESteroids/2.7.1.7
 - Invoke-Obfuscation: PowerShell command and script obfuscator. https://github.com/danielbohannon/Invoke-Obfuscation
 - amsi.fail: Generates obfuscated PowerShell snippets that break or disable AMSI for the current process. https://amsi.fail/
+
+## Lateral Movement
+- SharpMove: .NET authenticated execution for remote hosts. https://github.com/0xthirteen/SharpMove
 
 ## Privilege Escalation and Post-Exploitation
 
@@ -80,13 +87,6 @@
 ### MSSQL
 - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 - SharpSQLPwn: C# tool to identify and exploit weaknesses with MSSQL instances in AD env. https://github.com/lefayjey/SharpSQLPwn
-
-## Proxy/Tunnel
-- Sshuttle: Where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
-- Chisel: Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. https://github.com/jpillora/chisel
-
-## Lateral Movement
-- SharpMove: .NET authenticated execution for remote hosts. https://github.com/0xthirteen/SharpMove
 
 ## Home Labs
 - Vulnerable-AD: Test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
