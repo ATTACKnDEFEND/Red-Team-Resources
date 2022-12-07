@@ -64,7 +64,7 @@
 - PrivescCheck: Enumerate common Windows configuration issues. https://github.com/itm4n/PrivescCheck
 - WinPwn: Powershell Recon/Exploit script with automatic proxy support. https://github.com/S3cur3Th1sSh1t/WinPwn
 - HostRecon: PowerShell script host enumeration. https://github.com/dafthack/HostRecon/blob/master/HostRecon.ps1
-- PowerUp: Clearinghouse of common Windows PE due to misconfiguration. https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerUp/PowerUp.ps1
+- PowerUp: Common Windows PE due to misconfiguration. https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerUp/PowerUp.ps1
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
 - SeatBelt: C# performs a number of security oriented host-survey safety checks. https://github.com/GhostPack/Seatbelt
 - Windows Exploit Suggester - Next Generation (WES-NG): lists OS vulnerabilities. https://github.com/bitsadmin/wesng
