@@ -15,10 +15,6 @@
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
 - SharpHound.ps1: BloodHound Ingestor using reflection. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
 
-## Network utility
-- Netcat: Networking utility for reading from and writing to network connections. https://eternallybored.org/misc/netcat/
-- Impacket: Collection of Python classes working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
-
 ## C2
 - Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
 - Metasploit: Command and Control (C2) system. https://www.metasploit.com/
@@ -29,6 +25,10 @@
 ## Proxy/Tunnel
 - Sshuttle: Where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
 - Chisel: Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. https://github.com/jpillora/chisel
+
+## Network utility
+- Netcat: Networking utility for reading from and writing to network connections. https://eternallybored.org/misc/netcat/
+- Impacket: Collection of Python classes working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
 
 ## Shells+
 - Evil-WinRM: Ultimate WinRM shell for hacking/pentesting. https://github.com/Hackplayers/evil-winrm 
