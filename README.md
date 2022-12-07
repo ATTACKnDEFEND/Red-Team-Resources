@@ -15,13 +15,6 @@
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
 - SharpHound.ps1: BloodHound Ingestor using reflection. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
 
-## Credentials
-- Mimikatz: Credential-dumping application. https://github.com/ParrotSec/mimikatz
-- Pypykatz: Mimikatz implementation in pure Python. https://github.com/skelsec/pypykatz
-- Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
-- LaZagne: Retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
-- crackstation: Free Password Hash Cracker. https://crackstation.net/
-
 ## Network utility
 - Netcat: Networking utility for reading from and writing to network connections. https://eternallybored.org/misc/netcat/
 - Impacket: Collection of Python classes working with network protocols. https://www.secureauth.com/labs/open-source-tools/impacket/
@@ -60,9 +53,14 @@
 ### Windows/AD
 - WinPEAS: Windows Privilege Escalation Awesome Scripts. https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
 - PrivescCheck: Enumerate common Windows configuration issues. https://github.com/itm4n/PrivescCheck
-- adPEAS: Powershell tool to automate Active Directory enumeration. https://github.com/61106960/adPEAS
 - WinPwn: Powershell Recon/Exploit script with automatic proxy support. https://github.com/S3cur3Th1sSh1t/WinPwn
+- HostRecon: PowerShell script host enumeration. https://github.com/dafthack/HostRecon/blob/master/HostRecon.ps1
+- PowerUp: Clearinghouse of common Windows PE due to misconfiguration. https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerUp/PowerUp.ps1
 - PowerShellMafia: PowerShell post-exploitation PowerSCCM and PowerSploit (includes PowerView). https://github.com/PowerShellMafia
+- LOLBAS: Living Off The land Binaries, Scripts and Libraries. https://lolbas-project.github.io/
+
+## Active Directory
+- adPEAS: Powershell tool to automate Active Directory enumeration. https://github.com/61106960/adPEAS
 - PowerMad: PowerShell MachineAccountQuota and DNS exploit tools.  https://github.com/Kevin-Robertson/Powermad
 - Responder: Responder an LLMNR, NBT-NS and MDNS poisoner. https://github.com/SpiderLabs/Responder
 - SpoolSample: coerce Windows hosts authenticate via the MS-RPRN RPC interface. https://github.com/leechristensen/SpoolSample
@@ -70,7 +68,13 @@
 - CrackMapExec(CME): Automate assessing the security of large AD networks. https://github.com/Porchetta-Industries/CrackMapExec
 - Rubeus: C# toolset for raw Kerberos interaction and abuses. https://github.com/GhostPack/Rubeus
 - Kekeo: Toolbox to manipulate Microsoft Kerberos in C. https://github.com/gentilkiwi/kekeo
-- LOLBAS: Living Off The land Binaries, Scripts and Libraries. https://lolbas-project.github.io/
+
+## Credentials
+- Mimikatz: Credential-dumping application. https://github.com/ParrotSec/mimikatz
+- Pypykatz: Mimikatz implementation in pure Python. https://github.com/skelsec/pypykatz
+- Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
+- LaZagne: Retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
+- crackstation: Free Password Hash Cracker. https://crackstation.net/
 
 ### MSSQL
 - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
