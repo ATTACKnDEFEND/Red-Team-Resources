@@ -57,7 +57,8 @@
 - LinPEAS: Linux Privilege Escalation Awesome Script. https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 - GTFOBins: curated list of Unix binaries to bypass local security restrictions in misconfigured systems. https://gtfobins.github.io/
 - pspy: Unprivileged Linux process snooping. https://github.com/DominicBreuker/pspy 
- 
+- SUID3NUM: Find out all SUID binaries in machines/CTFs. https://github.com/Anon-Exploiter/SUID3NUM
+
 ### Windows
 - WinPEAS: Windows Privilege Escalation Awesome Scripts. https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
 - PrivescCheck: Enumerate common Windows configuration issues. https://github.com/itm4n/PrivescCheck
