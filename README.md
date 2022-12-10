@@ -118,3 +118,4 @@
 - thehacker.recipes: technical guides on various hacking topics. https://www.thehacker.recipes/
 - Kerberoast: how-to-kerberoast-like-a-boss. https://www.pentestpartners.com/security-blog/how-to-kerberoast-like-a-boss/
 - Lateral moment on Active Directory crackmapexec: https://www.hackingarticles.in/lateral-moment-on-active-directory-crackmapexec/
+- Domain Escalation Resource Based Constrained Delegation: https://www.hackingarticles.in/domain-escalation-resource-based-constrained-delegation/
