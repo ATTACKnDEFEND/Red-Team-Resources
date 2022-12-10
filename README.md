@@ -85,6 +85,7 @@
 - Lsassy: Python tool to remotely extract credentials on a set of hosts. https://github.com/Hackndo/lsassy
 - LaZagne: Retrieve lots of passwords stored on a local computer. https://github.com/AlessandroZ/LaZagne
 - crackstation: Free Password Hash Cracker. https://crackstation.net/
+- SharpLAPS: Retrieve the LAPS password from the Active Directory. https://github.com/swisskyrepo/SharpLAPS
 
 ### MSSQL
 - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
