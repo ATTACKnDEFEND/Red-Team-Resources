@@ -1,4 +1,4 @@
-# Red Team Free Resources
+# Red Team Resources
 
 ## Enumeration
 - AutoRecon: Network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
@@ -40,6 +40,7 @@
 ## Bypasses+
 - Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm
 - AntiScan.Me: Online Virus Scanner without result distribution. https://antiscan.me/
+- KleenScan: Online Virus Scanner without result distribution. https://www.kleenscan.com
 - AMSI PowerShell bypass: Oneliner. https://github.com/ZemarKhos/AMSI-BYPASS-ONELINER/blob/main/amsi-bypass-onliner.ps1
 - Amsi bypass: PowerShell AMSI bypass. https://notes.vulndev.io/notes/redteam/payloads/windows/amsi
 - Amsitrigger: Hunting for Malicious Strings. https://www.rythmstick.net/posts/amsitrigger/
