@@ -24,6 +24,7 @@
 ## Proxy/Tunnel
 - Sshuttle: Where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
 - Chisel: Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH. https://github.com/jpillora/chisel
+- FoxyProxy: Firefox proxy extension. https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 
 ## Network utility
 - Netcat: Networking utility for reading from and writing to network connections. https://eternallybored.org/misc/netcat/
