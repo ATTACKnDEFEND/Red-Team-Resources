@@ -122,3 +122,4 @@
 - Lateral moment on Active Directory crackmapexec: https://www.hackingarticles.in/lateral-moment-on-active-directory-crackmapexec/
 - Domain Escalation Resource Based Constrained Delegation: https://www.hackingarticles.in/domain-escalation-resource-based-constrained-delegation/
 - https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/
+- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
