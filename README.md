@@ -42,6 +42,8 @@
 - Bypass-CLM: CLM bypass. https://github.com/calebstewart/bypass-clm
 - AntiScan.Me: Online Virus Scanner without result distribution. https://antiscan.me/
 - KleenScan: Online Virus Scanner without result distribution. https://www.kleenscan.com
+- DefenderCheck: Identifies the bytes that Microsoft Defender flags on. https://github.com/matterpreter/DefenderCheck
+- ThreatCheck: Identifies the bytes that Microsoft Defender / AMSI Consumer flags on.https://github.com/rasta-mouse/ThreatCheck
 - AMSI PowerShell bypass: Oneliner. https://github.com/ZemarKhos/AMSI-BYPASS-ONELINER/blob/main/amsi-bypass-onliner.ps1
 - Amsi bypass: PowerShell AMSI bypass. https://notes.vulndev.io/notes/redteam/payloads/windows/amsi
 - Amsitrigger: Hunting for Malicious Strings. https://www.rythmstick.net/posts/amsitrigger/
