@@ -1,6 +1,7 @@
 # Red Team Resources
 
 ## Enumeration
+- ADSearch: A tool to help query AD via the LDAP protocol. https://github.com/tomcarver16/ADSearch
 - AutoRecon: Network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
 - Nmap: Network discovery and security auditing. https://nmap.org/
 - SauronEye: Assembly search tool built to find files containing specific keywords. https://github.com/vivami/SauronEye
