@@ -126,3 +126,4 @@
 - Domain Escalation Resource Based Constrained Delegation: https://www.hackingarticles.in/domain-escalation-resource-based-constrained-delegation/
 - https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/
 - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
+- https://cybersecuritynews-com.cdn.ampproject.org/c/s/cybersecuritynews.com/active-directory-checklist/?amp
