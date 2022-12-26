@@ -96,6 +96,10 @@
 - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server. https://github.com/NetSPI/PowerUpSQL
 - SharpSQLPwn: C# tool to identify and exploit weaknesses with MSSQL instances in AD env. https://github.com/lefayjey/SharpSQLPwn
 
+### SCCM
+- NAC creds: Decrypt these NAC credentials without using DPAI or Administrator account. https://github.com/xpn/sccmwtf
+source: https://blog.xpnsec.com/unobfuscating-network-access-accounts/
+
 ## Home Labs
 - Vulnerable-AD: Test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
 - BadBlood: Outputs a domain to practice privileged identity threat hunting. https://github.com/davidprowe/BadBlood
