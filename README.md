@@ -99,6 +99,7 @@
 ### SCCM
 - NAC creds: Decrypt NAC credentials without using DPAI or Administrator account. https://github.com/xpn/sccmwtf
 source: https://blog.xpnsec.com/unobfuscating-network-access-accounts/
+-  SharpSCCM: A C# utility for interacting with SCCM. https://github.com/Mayyhem/SharpSCCM
 
 ## Home Labs
 - Vulnerable-AD: Test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
