@@ -135,3 +135,4 @@ source: https://blog.xpnsec.com/unobfuscating-network-access-accounts/
 - https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/
 - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
 - https://cybersecuritynews-com.cdn.ampproject.org/c/s/cybersecuritynews.com/active-directory-checklist/?amp
+- https://mgeeky.tech/uploads/WarCon22%20-%20Modern%20Initial%20Access%20and%20Evasion%20Tactics.pdf
