@@ -113,11 +113,12 @@ source: https://blog.xpnsec.com/unobfuscating-network-access-accounts/
 - Orange Cyberdefense: Pentest AD. https://github.com/Orange-Cyberdefense/ocd-mindmaps/blob/main/img/pentest_ad_2022_04.svg
 - Active Directory attacking: Useful for OSEP by Youssef Saeed. https://xmind.app/m/874LNH/#
 
-## Other useful repositories
-- S3cur3Th1sSh1t https://github.com/S3cur3Th1sSh1t
-- Rasta Mouse https://github.com/rasta-mouse
-- OSEP Code Snippets: Cas van Cooten. https://github.com/chvancooten/OSEP-Code-Snippets
-- OSEP payloads and tools: Octoberfest7. https://github.com/Octoberfest7/OSEP-Tools
+## Excellent repositories
+- S3cur3Th1sSh1t: https://github.com/S3cur3Th1sSh1t
+- Rasta Mouse: https://github.com/rasta-mouse
+- Cas van Cooten: https://github.com/chvancooten/OSEP-Code-Snippets
+- Octoberfest7: https://github.com/Octoberfest7/OSEP-Tools
+- mgeeky: https://github.com/mgeeky
  
 ## References/Guides
 - Test antivirus is working without any malware: https://www.blackhillsinfosec.com/is-this-thing-on/
