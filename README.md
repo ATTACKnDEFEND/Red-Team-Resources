@@ -2,6 +2,7 @@
 
 ## Initial Access
 - mgeeky: Phishing and Social-Engineering related scripts, tools and CheatSheets. https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/phishing
+- caniemail: compare different email clients. https://www.caniemail.com/
 
 ## Enumeration
 - ADSearch: A tool to help query AD via the LDAP protocol. https://github.com/tomcarver16/ADSearch
