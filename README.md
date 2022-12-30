@@ -25,6 +25,9 @@
 - Metasploit: Command and Control (C2) system. https://www.metasploit.com/
 - Covenant: Command and Control (C2) system. https://github.com/cobbr/Covenant/
 - Covenant randomizer: Obfuscate Covenant. https://github.com/assume-breach/Home-Grown-Red-Team/tree/main/Covenant%20Randomizer
+- PoshC2: A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. https://github.com/nettitude/PoshC2
+- CobaltStrike: Adversary Simulations and Red Team Operations. https://www.cobaltstrike.com/
+- Brute Ratel: A Customized Command and Control Center for Red Team and Adversary Simulation. https://bruteratel.com/
 
 ## Proxy/Tunnel
 - Sshuttle: Where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
@@ -40,7 +43,10 @@
 - Villian: A Windows & Linux backdoor generator.  https://github.com/t3l3machus/Villain
 - DotNetToJScript: Generate JScript bootstraps arbitrary .NET Assembly & class. https://github.com/tyranid/DotNetToJScript
 
-## Packers+
+## Obfuscation
+- Javascript Obfuscator: Online Obfuscator supports .js & .txt. https://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx
+
+## Packers
 - ConfuserEx: Open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
 
 ## Bypasses+
