@@ -45,6 +45,7 @@
 
 ## Obfuscation
 - Javascript Obfuscator: Online Obfuscator supports .js & .txt. https://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx
+- Javascript Obfuscation with Code Beautify: https://codebeautify.org/javascript-obfuscator
 
 ## Packers
 - ConfuserEx: Open-source protector for .NET applications. https://github.com/mkaring/ConfuserEx
