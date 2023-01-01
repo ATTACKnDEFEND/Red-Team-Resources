@@ -4,10 +4,13 @@
 - mgeeky: Phishing and Social-Engineering related scripts, tools and CheatSheets. https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/phishing
 - caniemail: compare different email clients. https://www.caniemail.com/
 
-## Enumeration
-- ADSearch: A tool to help query AD via the LDAP protocol. https://github.com/tomcarver16/ADSearch
+## Initial Enumeration
+- nmapAutomator:  automate the process of enumeration & recon. https://github.com/21y4d/nmapAutomator
 - AutoRecon: Network reconnaissance tool. https://github.com/Tib3rius/AutoRecon
 - Nmap: Network discovery and security auditing. https://nmap.org/
+
+## Post Enumeration
+- ADSearch: A tool to help query AD via the LDAP protocol. https://github.com/tomcarver16/ADSearch
 - SauronEye: Assembly search tool built to find files containing specific keywords. https://github.com/vivami/SauronEye
 - ADRecon: PowerShell script extracts & combines various artefacts out of an AD env. https://github.com/sense-of-security/ADRecon
 - ADModule: Microsoft signed DLL for the ActiveDirectory PowerShell module. https://github.com/samratashok/ADModule
@@ -19,15 +22,6 @@
 - BloodHound: Identity AD attack paths. https://github.com/BloodHoundAD/BloodHound
 - SharpHound: BloodHound Ingestor. https://github.com/BloodHoundAD/SharpHound
 - SharpHound.ps1: BloodHound Ingestor using reflection. https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
-
-## C2
-- Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
-- Metasploit: Command and Control (C2) system. https://www.metasploit.com/
-- Covenant: Command and Control (C2) system. https://github.com/cobbr/Covenant/
-- Covenant randomizer: Obfuscate Covenant. https://github.com/assume-breach/Home-Grown-Red-Team/tree/main/Covenant%20Randomizer
-- PoshC2: A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. https://github.com/nettitude/PoshC2
-- CobaltStrike: Adversary Simulations and Red Team Operations. https://www.cobaltstrike.com/
-- Brute Ratel: A Customized Command and Control Center for Red Team and Adversary Simulation. https://bruteratel.com/
 
 ## Proxy/Tunnel
 - Sshuttle: Where transparent proxy meets VPN meets ssh. https://github.com/sshuttle/sshuttle
@@ -111,6 +105,15 @@
 - NAC creds: Decrypt NAC credentials without using DPAI or Administrator account. https://github.com/xpn/sccmwtf
 source: https://blog.xpnsec.com/unobfuscating-network-access-accounts/
 -  SharpSCCM: A C# utility for interacting with SCCM. https://github.com/Mayyhem/SharpSCCM
+
+## C2
+- Sliver: Command and Control (C2) system. https://github.com/BishopFox/slivern
+- Metasploit: Command and Control (C2) system. https://www.metasploit.com/
+- Covenant: Command and Control (C2) system. https://github.com/cobbr/Covenant/
+- Covenant randomizer: Obfuscate Covenant. https://github.com/assume-breach/Home-Grown-Red-Team/tree/main/Covenant%20Randomizer
+- PoshC2: A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. https://github.com/nettitude/PoshC2
+- CobaltStrike: Adversary Simulations and Red Team Operations. https://www.cobaltstrike.com/
+- Brute Ratel: A Customized Command and Control Center for Red Team and Adversary Simulation. https://bruteratel.com/
 
 ## Home Labs
 - Vulnerable-AD: Test most of active directory attacks in local lab. https://github.com/WazeHell/vulnerable-AD
