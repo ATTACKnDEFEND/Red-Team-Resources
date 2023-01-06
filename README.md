@@ -3,6 +3,7 @@
 ## Initial Access
 - mgeeky: Phishing and Social-Engineering related scripts, tools and CheatSheets. https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/phishing
 - caniemail: compare different email clients. https://www.caniemail.com/
+- evilginx2: Standalone MIM attack framework for phishing login credentials and session cookies, allowing for the bypass of 2FA. https://github.com/kgretzky/evilginx2
 
 ## Initial Enumeration
 - nmapAutomator:  automate the process of enumeration & recon. https://github.com/21y4d/nmapAutomator
